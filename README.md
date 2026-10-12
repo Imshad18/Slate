@@ -1,5 +1,7 @@
 # Slate
 
+**[Download Slate.apk](../../raw/main/Slate.apk)** — install directly, no Play Store.
+
 A file viewer and editor for Android that opens anything: PDF, Markdown, Word,
 spreadsheets, source code in sixteen languages, images, archives, and whatever
 else by falling back to text or hex.
