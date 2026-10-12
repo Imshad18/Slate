@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- windowBackground matches the app's own background so the preview
+         window the system shows before onCreate runs is the right colour.
+         Leaving it default is why so many apps flash white on launch. -->
+    <style name="SlateTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF14161A</item>
+        <item name="android:statusBarColor">#FF21252C</item>
+        <item name="android:navigationBarColor">#FF14161A</item>
+        <item name="android:colorAccent">#FF4FC3F7</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>
